@@ -4,7 +4,7 @@
 ### Mininet Topologie
 2 Hosts pro Subnetz (h1 und h2 bzw. h3 und h4), 1 Switch pro Subnetz  (sw1 und sw2), 1 Host als Router zwischen den beiden Subnetzen (router, vgl. Grafik)
 
-![Topologie](/lab1/topo.png)
+![Topologie](./topo.png)
 
 ### Router
 Der Router ist ein Host mit aktiviertem IP-Forwarding.
